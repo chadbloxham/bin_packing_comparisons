@@ -10,4 +10,4 @@ Python program which computes and displays the performance of various bin-packin
 Requires the Numpy library, Matplotlib library, os library, and any version of Python which supports them. Run Main.py.
 
 ## Main.py output
-![waste plot](https://github.com/chadbloxham/bin_packing_comparisons/waste_plot.png)
+![waste plot](https://github.com/chadbloxham/bin_packing_comparisons/blob/master/waste_plot.png)
